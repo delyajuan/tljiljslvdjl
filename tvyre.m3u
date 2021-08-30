@@ -99,7 +99,7 @@ http://br0ss.xyz:8090/Diego/Diego/118
 http://br0ss.xyz:8090/Diego/Diego/119
 #EXTINF:-1, tvg-id="I272.15969.schedulesdirect.org" tvg-name="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png", HTV
 http://br0ss.xyz:8090/Diego/Diego/2412
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bandamax.png", BANDAMAX
+#EXTINF:-1, tvg-id="Bandamax.mx" tvg-name="BANDAMAX" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bandamax.png", BANDAMAX
 http://br0ss.xyz:8090/Diego/Diego/492
 #EXTINF:-1, tvg-id="Canal DHE" tvg-name="DHE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1200px-Canal_DHE_logo.svg.png", DHE
 http://latinosiptv.online:8090/orlandonava/DGHKAuZI5P/20899
