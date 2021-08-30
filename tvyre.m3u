@@ -12,9 +12,9 @@ http://br0ss.xyz:8090/Diego/Diego/9
 #EXTINF:-1, tvg-id="TCTelevision.ec" tvg-name="EC: TC TELEVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png", TC TELEVISION
 http://br0ss.xyz:8090/Diego/Diego/12
 #EXTINF:-1, tvg-id="OromarTV.ec" tvg-name="EC: OROMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png", OROMAR TV
-http://xdgo.live:8080/Chastain10/CmAKuriikb/154
-#EXTINF:-1, tvg-id="CanalUno.ec" tvg-name="EC: CANAL UNO GYE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal_Uno_%28Ecuador%29_logo.png", CANAL UNO
 http://br0ss.xyz:8090/Diego/Diego/16
+#EXTINF:-1, tvg-id="CanalUno.ec" tvg-name="EC: CANAL UNO GYE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal_Uno_%28Ecuador%29_logo.png", CANAL UNO
+http://br0ss.xyz:8090/Diego/Diego/1092
 #EXTINF:-1, tvg-id="192TVCE.ec" tvg-name="EC: TVC" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Televicentro-Ecuador-TVC-en-vivo-Online.png", TVC
 http://br0ss.xyz:8090/Diego/Diego/2321
 #EXTINF:-1, tvg-id="AzCorazon.mx" tvg-name="MEX: AZTECA MUNDO SD" tvg-logo="https://sc.dish.com/shared/images/station-logos/AZCOR.png", AZ CORAZON
