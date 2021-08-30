@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="Ecuavisa.ec" tvg-name="EC: ECUAVISA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png", ECUAVISA
+#EXTINF:-1, tvg-id="Ecuavisa.ec" tvg-name="EC: ECUAVISA FHD" tvg-logo="https://static.wikia.nocookie.net/telenovelas/images/0/04/Logoecuavisa.png/revision/latest?cb=20160725222310&path-prefix=es", ECUAVISA
 http://br0ss.xyz:8090/Diego/Diego/29181
 #EXTINF:-1, tvg-id="RTS.ec" tvg-name="EC: RTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png", RTS
-http://xdgo.live:8080/Chastain10/CmAKuriikb/42291
+http://br0ss.xyz:8090/Diego/Diego/14321
 #EXTINF:-1, tvg-id="TeleAmazonas.ec" tvg-name="EC: TELEAMAZONAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png", TELEAMAZONAS
-http://xdgo.live:8080/Chastain10/CmAKuriikb/160
+http://br0ss.xyz:8090/Diego/Diego/6
 #EXTINF:-1, tvg-id="EcuadorTV.ec" tvg-name="EC: ECUADOR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png", ECUADOR TV
 http://br0ss.xyz:8090/Diego/Diego/7
 #EXTINF:-1, tvg-id="GamaTV.ec" tvg-name="EC: GAMA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png", GAMA TV
-http://xdgo.live:8080/Chastain10/CmAKuriikb/153
+http://br0ss.xyz:8090/Diego/Diego/9
 #EXTINF:-1, tvg-id="TCTelevision.ec" tvg-name="EC: TC TELEVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png", TC TELEVISION
-http://xdgo.live:8080/Chastain10/CmAKuriikb/157
+http://br0ss.xyz:8090/Diego/Diego/12
 #EXTINF:-1, tvg-id="OromarTV.ec" tvg-name="EC: OROMAR TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png", OROMAR TV
 http://xdgo.live:8080/Chastain10/CmAKuriikb/154
 #EXTINF:-1, tvg-id="CanalUno.ec" tvg-name="EC: CANAL UNO GYE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal_Uno_%28Ecuador%29_logo.png", CANAL UNO
-http://xdgo.live:8080/Chastain10/CmAKuriikb/42302
+http://br0ss.xyz:8090/Diego/Diego/16
 #EXTINF:-1, tvg-id="192TVCE.ec" tvg-name="EC: TVC" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/Televicentro-Ecuador-TVC-en-vivo-Online.png", TVC
 http://br0ss.xyz:8090/Diego/Diego/2321
 #EXTINF:-1, tvg-id="AzCorazon.mx" tvg-name="MEX: AZTECA MUNDO SD" tvg-logo="https://sc.dish.com/shared/images/station-logos/AZCOR.png", AZ CORAZON
@@ -22,7 +22,7 @@ http://br0ss.xyz:8090/Diego/Diego/498
 #EXTINF:-1, tvg-id="LasEstrellas.mx" tvg-name="MEX: CANAL DE LAS ESTRELLAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png", LAS ESTRELLAS
 http://br0ss.xyz:8090/Diego/Diego/509
 #EXTINF:-1, tvg-id="TeleNovelas.mx" tvg-name="MEX: TLNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png", TLNOVELAS
-http://xdgo.live:8080/Chastain10/CmAKuriikb/170
+http://br0ss.xyz:8090/Diego/Diego/479
 #EXTINF:-1, tvg-id="Pasiones.us" tvg-name="MEX: PASIONES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png", PASIONES
 http://br0ss.xyz:8090/Diego/Diego/2353
 #EXTINF:-1, tvg-id="Unicable.mx" tvg-name="MEX: UNICABLE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png", UNICABLE
