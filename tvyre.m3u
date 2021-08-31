@@ -113,7 +113,7 @@ http://ultrontv.xyz:80/Faith/Faith/73745
 http://br0ss.xyz:8090/Diego/Diego/470
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png", FILM & ARTS
 http://ultrontv.xyz:80/Faith/Faith/73687
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png", TCM
+#EXTINF:-1, tvg-id="TCM.mx" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png", TCM
 http://br0ss.xyz:8090/Diego/Diego/403
 #EXTINF:-1, tvg-id="Cinemax.pa" tvg-name="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png", CINEMAX
 http://br0ss.xyz:8090/Diego/Diego/467
@@ -197,19 +197,19 @@ http://br0ss.xyz:8090/Diego/Diego/69
 http://br0ss.xyz:8090/Diego/Diego/72
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/1200px-DirecTV_Sports%2B_Latin_America_%282018%29.png", DIRECTV SPORTS +
 http://ultrontv.xyz:80/Faith/Faith/37457
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png", ESPN
+#EXTINF:-1, tvg-id="ESPN 2 (Colombia)" tvg-name="ESPN HD Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png", ESPN
 http://br0ss.xyz:8090/Diego/Diego/17828
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png", ESPN 2
+#EXTINF:-1, tvg-id="ESPN" tvg-name="ESPN 2 HD Colombia" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png", ESPN 2
 http://br0ss.xyz:8090/Diego/Diego/16231
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png", ESPN 3
+#EXTINF:-1, tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png", ESPN 3
 http://br0ss.xyz:8090/Diego/Diego/78
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", FOX SPORTS
+#EXTINF:-1, tvg-id="Fox Sports 1 Mexico" tvg-name="Fox Sports HD Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png", FOX SPORTS
 http://br0ss.xyz:8090/Diego/Diego/15001
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2
+#EXTINF:-1, tvg-id="Fox Sports 2 Mexico" tvg-name="Fox Sports 2 HD Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2
 http://br0ss.xyz:8090/Diego/Diego/2352
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png", FOX SPORTS 3
+#EXTINF:-1, tvg-id="Fox Sports 3 Argentina" tvg-name="Fox Sports 3 HD Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png", FOX SPORTS 3
 http://br0ss.xyz:8090/Diego/Diego/85
-#EXTINF:-1, tvg-id="I468.32161.zap2it.com" tvg-name="GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png", GOL TV
+#EXTINF:-1, tvg-id="GolTVLatinAmerica.pa" tvg-name="GOLTV SD UY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png", GOL TV
 http://br0ss.xyz:8090/Diego/Diego/95
 #EXTINF:-1, tvg-id="ClaroSports.co" tvg-name="CLARO SPORTS" tvg-logo="https://1.bp.blogspot.com/-uorpNx_hxA4/W6lnDEjj83I/AAAAAAAAAFI/J0_nCq1-I4ELLx8cGJY99HoPX4P3t1Y1QCPcBGAYYCw/s1600/clarosports.png", CLARO SPORTS
 http://latinosiptv.online:8090/orlandonava/DGHKAuZI5P/20898
